@@ -1,0 +1,14 @@
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\bin\Debug\net8.0\ArrayOfAccounts.exe
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\bin\Debug\net8.0\ArrayOfAccounts.deps.json
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\bin\Debug\net8.0\ArrayOfAccounts.runtimeconfig.json
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\bin\Debug\net8.0\ArrayOfAccounts.dll
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\bin\Debug\net8.0\ArrayOfAccounts.pdb
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ArrayOfAccounts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ArrayOfAccounts.AssemblyInfoInputs.cache
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ArrayOfAccounts.AssemblyInfo.cs
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ArrayOfAccounts.csproj.CoreCompileInputs.cache
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ArrayOfAccounts.dll
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\refint\ArrayOfAccounts.dll
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ArrayOfAccounts.pdb
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ArrayOfAccounts.genruntimeconfig.cache
+D:\Training\Assignments\ArrayOfAccounts\ArrayOfAccounts\obj\Debug\net8.0\ref\ArrayOfAccounts.dll
